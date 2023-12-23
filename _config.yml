@@ -1,6 +1,7 @@
 sititle: "Voron Design Archive"
 author: "Blog Author John"
-description: "Powered by <b><i>Johannes58</i></b>"
+description: ""
+# Powered by <b><i>Johannes58</i></b>
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
