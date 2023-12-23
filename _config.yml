@@ -1,6 +1,6 @@
 sititle: "Voron Design Archive"
 author: "Blog Author John"
-description: !["Powered by Johannes58"](https://raw.githubusercontent.com/TheJohannes58/TheJohannes58.github.io/master/assets/images/powered.png)
+description: "Powered by Johannes58"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
