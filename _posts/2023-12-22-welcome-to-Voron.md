@@ -8,7 +8,7 @@ This will be a place to organize pages and files associated with Voron 3D printe
 
 This is the initial post to test the site... More to come!
 
-![power](assets/images/powered.png)
+![power][(https://raw.githubusercontent.com/TheJohannes58/TheJohannes58.github.io/master/assets/images/powered.png)]
 
 My code snippets:
 
